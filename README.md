@@ -2,6 +2,10 @@
 
 A retro-themed action game where you play as a school janitor defending a school from a horde of alien filth zombies!
 
+Clean the school to make money, buy power-ups, and do your best to stay alive 🧟
+
+Win by repairing the school's sprinkler system.
+
 Developed for UCF's AI for Game Programming course using Unity and C#.
 
 Ranked 1/15 games for gameplay design.
